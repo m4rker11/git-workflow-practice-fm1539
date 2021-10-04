@@ -6,5 +6,5 @@ One reason why this article is interesting because it gives a really great intro
 
 Another reason why this article is interesting is because it is very informative in the sense that it provides a roadmap on how to become a software engineering if the career path sounds interesting. This informative article of information makes it so exciting for one to see the necessary coursework that is needed to succeed in the field, as well as other essential tips that will help anyone to succeed. 
 
-###Comment by Mark Zarutin
+### Comment by Mark Zarutin
 This was an absolute pleasure to skim through on my way to class. As I am in the middle of whether to apply for masters in cs this was a very helpful article.
